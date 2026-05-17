@@ -45,4 +45,4 @@
 - **Content Moderator for Kernel Klub:** Organized lectures on emerging technologies.
 
 Let's connect, collaborate, and create amazing things together! 🚀
-If you like my work or feel that my work has contributed any idea or insight, then please make sure to [sponsor me on GitHub](https://github.com)! 💖
+If you like my work or feel that my work has contributed any idea or insight, then please make sure to [sponsor me on GitHub]( https://github.com/sponsors/CoderHariswar)! 💖
