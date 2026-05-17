@@ -5,7 +5,7 @@
 - 🎓 I am a Data Science student at Thiagarajar College Of Engineering, passionate about deriving insights from data and solving real-world problems.
 - 🔭 Currently exploring Machine Learning, Deep Learning, and Generative AI.
 - 💬 Ask me about data science, AI, and anything related!
-- 📫 Reach me at hariswartp@gmail.com or connect on [LinkedIn](www.linkedin.com/in/hariswar-t-p-825347192/).
+- 📫 Reach me at hariswartp@gmail.com or connect on [LinkedIn](linkedin.com/in/hariswar-t-p-825347192/).
 
 ## 🔧 Skills
 
