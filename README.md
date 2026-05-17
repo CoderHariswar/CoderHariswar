@@ -32,10 +32,6 @@
 - **Higher Secondary (12th)** at Adhyapana School, Percentage: 83.4%
 - **High School (10th)** at Adhyapana School, Percentage: 92.3%
 
-## 💻 GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CoderHariswar)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderHariswar)
 
 ## 🏆 Certifications
 
